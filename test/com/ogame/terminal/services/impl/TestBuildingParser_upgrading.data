@@ -1,0 +1,154 @@
+<div id="buttonz">
+    <h2>
+        Resurse cladiri	</h2>
+    <ul id="building">
+        
+        <li id="button1" class="off">
+                           <div class="supply1 tipsStandard" title="|Mina de Metal">  
+	<div class="buildingimg">
+ 
+		<div class="construction">
+            <div class="pusher" id="b_supply1" style="height: 0px; margin-bottom: 0px; ">
+            	<a id="timeLink" class="slideIn" href="#" ref="1">
+                	<span class="time" id="test" name="zeit">1d 5h</span>
+                </a>
+            </div>      
+			<a class="detail_button slideIn" id="details1" ref="1" href="#">
+				<span class="eckeoben">
+					<span style="font-size:11px;" class="undermark">18</span>
+				</span>
+				<span class="ecke">
+					<span class="level">17</span>
+				</span>
+			</a>
+		</div>  		
+	</div> 
+</div>      
+
+                        </li>
+            
+        <li id="button2" class="disabled">
+    	            <div class="supply2">
+	                <div class="buildingimg">
+        	                    <a class="detail_button tipsStandard slideIn" title="|Mina de Cristal&lt;br&gt;Lista este plina" ref="2" id="details" href="#">
+	                        <span class="ecke">
+	                            <span class="level">
+	                               <span class="textlabel">
+	                                   Mina de Cristal 
+	                               </span>
+	                               17	                           </span>
+	                        </span>
+	                    </a>
+	                </div>
+	            </div>
+                </li>
+            
+        <li id="button3" class="disabled">
+    	            <div class="supply3">
+	                <div class="buildingimg">
+        	                    <a class="detail_button tipsStandard slideIn" title="|Sintetizator de Deuteriu&lt;br&gt;Lista este plina" ref="3" id="details" href="#">
+	                        <span class="ecke">
+	                            <span class="level">
+	                               <span class="textlabel">
+	                                   Sintetizator de Deuteriu 
+	                               </span>
+	                               0	                           </span>
+	                        </span>
+	                    </a>
+	                </div>
+	            </div>
+                </li>
+            
+        <li id="button4" class="disabled">
+    	            <div class="supply4">
+	                <div class="buildingimg">
+        	                    <a class="detail_button tipsStandard slideIn" title="|Uzina Solara&lt;br&gt;Lista este plina" ref="4" id="details" href="#">
+	                        <span class="ecke">
+	                            <span class="level">
+	                               <span class="textlabel">
+	                                   Uzina Solara 
+	                               </span>
+	                               18	                           </span>
+	                        </span>
+	                    </a>
+	                </div>
+	            </div>
+                </li>
+            
+        <li id="button5" class="off">
+    	            <div class="supply12">
+	                <div class="buildingimg">
+        	                    <a class="detail_button tipsStandard slideIn" title="|Reactor de Fuziune&lt;br&gt;Necesitatile nu sunt indeplinite" ref="12" id="details" href="#">
+	                        <span class="ecke">
+	                            <span class="level">
+	                               <span class="textlabel">
+	                                   Reactor de Fuziune 
+	                               </span>
+	                               0	                           </span>
+	                        </span>
+	                    </a>
+	                </div>
+	            </div>
+                </li>
+            
+        <li id="button6" class="off">
+    	            <div class="supply212">
+	                <div class="buildingimg">
+        	                    <a class="detail_button tipsStandard slideIn" title="|Satelit solar (0)&lt;br&gt;Necesitatile nu sunt indeplinite" ref="212" id="details" href="#">
+	                        <span class="ecke">
+	                            <span class="level">
+	                               <span class="textlabel">
+	                                   Satelit solar 
+	                               </span>
+	                               0	                           </span>
+	                        </span>
+	                    </a>
+	                </div>
+	            </div>
+                </li>
+                        </ul>
+        <ul id="storage">
+                                        <li id="button7" class="disabled">
+    	            <div class="supply22">
+	                <div class="buildingimg">
+	                    <a class="tipsStandard slideIn" href="#" title="|Depozit de Metal&lt;br&gt;Lista este plina" ref="22" id="details">
+	                        <span class="ecke">
+	                            <span class="level">
+	                               <span class="textlabel">
+	                                   Depozit de Metal	                               </span>
+	                               5	                           </span>
+	                        </span>
+	                    </a>
+        	                </div>
+	            </div>
+                </li>
+                    <li id="button8" class="disabled">
+    	            <div class="supply23">
+	                <div class="buildingimg">
+	                    <a class="tipsStandard slideIn" href="#" title="|Depozit de Cristal&lt;br&gt;Lista este plina" ref="23" id="details">
+	                        <span class="ecke">
+	                            <span class="level">
+	                               <span class="textlabel">
+	                                   Depozit de Cristal	                               </span>
+	                               5	                           </span>
+	                        </span>
+	                    </a>
+        	                </div>
+	            </div>
+                </li>
+                    <li id="button9" class="disabled">
+    	            <div class="supply24">
+	                <div class="buildingimg">
+	                    <a class="tipsStandard slideIn" href="#" title="|Bazin de Deuteriu&lt;br&gt;Lista este plina" ref="24" id="details">
+	                        <span class="ecke">
+	                            <span class="level">
+	                               <span class="textlabel">
+	                                   Bazin de Deuteriu	                               </span>
+	                               0	                           </span>
+	                        </span>
+	                    </a>
+        	                </div>
+	            </div>
+                </li>
+           </ul>
+    </div>

@@ -1,0 +1,6 @@
+# just ignore bin & input directories
+bin/
+input/
+places/
+logs/*.log
+credentials.in

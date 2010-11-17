@@ -1,0 +1,150 @@
+<div id="buttonz">
+                <h2>
+Resurse cladiri                </h2>
+                <ul id="building">
+                  <li class="disabled" id="button1">
+                    <div class="supply1">
+                      <div class="buildingimg">
+                        <a shape="rect" class="detail_button tipsStandard slideIn" id="details" title="|Mina de Metal&lt;br&gt;Insuficiente resurse!" ref="1" href="#">
+                          <span class="ecke">
+                            <span class="level">
+                              <span class="textlabel">
+Mina de Metal                              </span>
+19                            </span>
+                          </span>
+                        </a>
+                      </div>
+                    </div>
+                  </li>
+                  <li class="disabled" id="button2">
+                    <div class="supply2">
+                      <div class="buildingimg">
+                        <a shape="rect" class="detail_button tipsStandard slideIn" id="details" title="|Mina de Cristal&lt;br&gt;Insuficiente resurse!" ref="2" href="#">
+                          <span class="ecke">
+                            <span class="level">
+                              <span class="textlabel">
+Mina de Cristal                              </span>
+18                            </span>
+                          </span>
+                        </a>
+                      </div>
+                    </div>
+                  </li>
+                  <li class="on" id="button3">
+                    <div class="supply3">
+                      <div class="buildingimg">
+                        <a shape="rect" class="fastBuild tipsStandard" title="|Dezvolta Sintetizator de Deuteriu la nivelul 13" href="#" onclick="sendBuildRequest('index.php?page=resources&amp;session=b7583192a638&amp;modus=1&amp;type=3&amp;menge=1&amp;token=21c79203e08b0d80fb29f76163debdca');">
+                          <img src="img/layout/pixel.gif" width="22" height="14">
+                          
+                        </a>
+                        <a shape="rect" class="detail_button tipsStandard slideIn" id="details" title="|Sintetizator de Deuteriu" ref="3" href="#">
+                          <span class="ecke">
+                            <span class="level">
+                              <span class="textlabel">
+Sintetizator de Deuteriu                              </span>
+12                            </span>
+                          </span>
+                        </a>
+                      </div>
+                    </div>
+                  </li>
+                  <li class="disabled" id="button4">
+                    <div class="supply4">
+                      <div class="buildingimg">
+                        <a shape="rect" class="detail_button tipsStandard slideIn" id="details" title="|Uzina Solara&lt;br&gt;Insuficiente resurse!" ref="4" href="#">
+                          <span class="ecke">
+                            <span class="level">
+                              <span class="textlabel">
+Uzina Solara                              </span>
+20                            </span>
+                          </span>
+                        </a>
+                      </div>
+                    </div>
+                  </li>
+                  <li class="on" id="button5">
+                    <div class="supply12">
+                      <div class="buildingimg">
+                        <a shape="rect" class="fastBuild tipsStandard" title="|Dezvolta Reactor de Fuziune la nivelul 1" href="#" onclick="sendBuildRequest('index.php?page=resources&amp;session=b7583192a638&amp;modus=1&amp;type=12&amp;menge=1&amp;token=21c79203e08b0d80fb29f76163debdca');">
+                          <img src="img/layout/pixel.gif" width="22" height="14">
+                          
+                        </a>
+                        <a shape="rect" class="detail_button tipsStandard slideIn" id="details" title="|Reactor de Fuziune" ref="12" href="#">
+                          <span class="ecke">
+                            <span class="level">
+                              <span class="textlabel">
+Reactor de Fuziune                              </span>
+0                            </span>
+                          </span>
+                        </a>
+                      </div>
+                    </div>
+                  </li>
+                  <li class="on" id="button6">
+                    <div class="supply212">
+                      <div class="buildingimg">
+                        <a shape="rect" class="detail_button tipsStandard slideIn" id="details" title="|Satelit solar (0)" ref="212" href="#">
+                          <span class="ecke">
+                            <span class="level">
+                              <span class="textlabel">
+Satelit solar                              </span>
+0                            </span>
+                          </span>
+                        </a>
+                      </div>
+                    </div>
+                  </li>
+                </ul>
+                <ul id="storage">
+                  <li class="on" id="button7">
+                    <div class="supply22">
+                      <div class="buildingimg">
+                        <a shape="rect" class="tipsStandard slideIn" id="details" href="#" title="|Depozit de Metal" ref="22">
+                          <span class="ecke">
+                            <span class="level">
+                              <span class="textlabel">
+Depozit de Metal                              </span>
+5                            </span>
+                          </span>
+                        </a>
+                        <a shape="rect" class="fastBuild tipsStandard" title="|Dezvolta Depozit de Metal la nivelul 6" href="#" onclick="sendBuildRequest('index.php?page=resources&amp;session=b7583192a638&amp;modus=1&amp;type=22&amp;menge=1&amp;token=21c79203e08b0d80fb29f76163debdca');">
+                          <img src="img/layout/pixel.gif" width="22" height="14" alt="">
+                          
+                        </a>
+                      </div>
+                    </div>
+                  </li>
+                  <li class="on" id="button8">
+                    <div class="supply23">
+                      <div class="buildingimg">
+                        <a shape="rect" class="tipsStandard slideIn" id="details" href="#" title="|Depozit de Cristal" ref="23">
+                          <span class="ecke">
+                            <span class="level">
+                              <span class="textlabel">
+Depozit de Cristal                              </span>
+5                            </span>
+                          </span>
+                        </a>
+                        <a shape="rect" class="fastBuild tipsStandard" title="|Dezvolta Depozit de Cristal la nivelul 6" href="#" onclick="sendBuildRequest('index.php?page=resources&amp;session=b7583192a638&amp;modus=1&amp;type=23&amp;menge=1&amp;token=21c79203e08b0d80fb29f76163debdca');">
+                          <img src="img/layout/pixel.gif" width="22" height="14" alt="">
+                          
+                        </a>
+                      </div>
+                    </div>
+                  </li>
+                  <li class="disabled" id="button9">
+                    <div class="supply24">
+                      <div class="buildingimg">
+                        <a shape="rect" class="tipsStandard slideIn" id="details" href="#" title="|Bazin de Deuteriu&lt;br&gt;Insuficiente resurse!" ref="24">
+                          <span class="ecke">
+                            <span class="level">
+                              <span class="textlabel">
+Bazin de Deuteriu                              </span>
+5                            </span>
+                          </span>
+                        </a>
+                      </div>
+                    </div>
+                  </li>
+                </ul>
+              </div>
