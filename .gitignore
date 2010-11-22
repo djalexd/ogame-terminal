@@ -2,5 +2,6 @@
 bin/
 input/
 places/
-logs/*.log
+logs/*.*
 credentials.in
+.settings/

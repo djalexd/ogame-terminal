@@ -64,6 +64,9 @@ public class Main {
 	private static void auth() {
 		AuthDataManager authManager = injector.getInstance(AuthDataManager.class);
 		authManager.setAuthService(injector.getInstance(AuthService.class));
+		
+		// Read the default filename for credentials. You can always specify other file to read.
+		authManager.setCredentials(new CredentialsReader().readCredentials());
 	}
 	
 	private static void printUser (User user) {
